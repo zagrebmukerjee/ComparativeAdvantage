@@ -1,0 +1,324 @@
+Indexes of minor import classes (Lipsey 1963),,SITC Revision 2
+001,"Crude animal foods, agricultural",001(excl. 0015)
+001,,0251
+002,"Crude animal foods, nonagricultrual",034
+002,,036
+003,Hay,0811
+004,Grains,041
+004,,0421
+004,,043
+004,,044
+004,,045
+004,,0812
+005,"Vegetables, crude",054
+005,,2222
+006,"Spices, crude",075
+007,"Fruits and nuts, crude, except bananas",2221
+007,,057(excl. 0573)
+008,Tea,074
+009,Coffee,071
+010,Cocoa or cacao beans,0721
+011,Bananas,0573
+012,"Manufactured animal foods, agricultural",01
+012,,02(excl. 025.1)
+013,"Manufactured animal foods, nonagricultural",035
+013,,037
+014,Flour and other grain products,0422
+014,,046
+014,,047
+014,,048
+015,"Fruits, processed",058(excl. 058.5)
+016,"Vegetable oil, cake, and meal, edible",0723
+016,,0813
+016,,4233
+016,,4234
+016,,4235
+017,"Vegetables and products, manufactured",056
+017,,098
+018,"Cocoa and chocolate, prepared",0722
+018,,073
+019,"Sugar, except refined, and related products",0611
+019,,0615
+020,"Sugar, refined, and related products",0612
+020,,0616
+020,,0619
+020,,062
+021,"Beverages, agricultural",112(excl. 1124)
+021,,0585
+022,"Beverages, nonagricultural",111
+022,,1124
+023,"Spices, ground",
+024,"Tobacco, crude",121
+025,Manufactured tabacco products,122
+026,"Hides, leather and products, crude",211
+027,"Hides, leather and products, semimanufatured",611
+028,"Hides, leather, and products, manufactured",612
+028,,831
+028,,8481
+028,,85
+029,"Furs, unmanufactured",212
+030,"Furs, semimanufactured",613
+030,,8483
+031,"Other animal products, crude, agricultural",0015
+031,,0913
+031,,0914
+031,,29111
+031,,2919(excl. 291.97)
+031,,4311
+031,,4312
+032,"Other animal products, crude, nonagricultural",29115
+032,,29116
+033,"Other animal products, semimanufactured, agricultural",43144
+033,,5922
+034,"Other animal products, semimanufactured, nonagricultural",411
+035,"Other animal products, manufactured, nonagricultrual",29197
+035,,89911
+036,"Rubber and related gums, crude",232
+037,"Rubber and related gums, manufactured",233
+037,,621
+037,,625
+037,,628
+038,"Oilseeds, crude",2223
+038,,2224
+038,,2225
+038,,2226
+038,,2231
+038,,2234
+038,,2235
+038,,2238
+039,"Vegetable oils, expressed, and fats, semimanufactured",42
+040,"Other vegetable products, crude, agricultural",2232
+040,,292(excl. 292.2/3)
+040,,43143
+041,"Other vegetable products, crude, nonagricultural",2922
+041,,2923
+042,"Other vegetable products, semimanufactured, agricultural",5921
+043,"Other vegetable products, semimanufactured, nonagricultural",5322
+044,"Other vegetable products, manufactured, agricultural",2239
+044,,551
+045,"Cotton textiles, crude",2631
+045,,2632
+046,"Cotton textiles, semimanufactured",2633
+046,,2634
+046,,6513
+047,"Cotton textiles, manufactured",652
+047,,65522
+047,,65821
+047,,65832
+047,,65841
+047,,65843
+047,,65845
+047,,65848
+047,,84222
+047,,84232
+047,,84242
+047,,84293
+047,,84312
+047,,84322
+047,,84332
+047,,84342
+047,,84351
+047,,84393
+047,,84411
+047,,84421
+047,,84431
+047,,84512
+047,,84522
+047,,84592
+047,,8462
+047,,84711
+048,"Jute and products, crude",264
+049,"Jute textiles, semimanufactured",65198
+049,,6545
+050,"Jute textiles, manufactured",6581
+051,"Other vegetable fibers, crude",265
+052,"Other vegetable fibers, semimanufactured",6519(excl. 651.98)
+053,"Other vegetable textiles, manufactured",6544
+053,,65498
+053,,65499
+053,,6551
+053,,65529
+053,,6553
+053,,656
+053,,657
+053,,65839
+053,,65842
+053,,65844
+053,,65846
+053,,65849
+053,,6589
+053,,6591
+053,,65929
+053,,6596
+053,,84219
+053,,84229
+053,,84239
+053,,84249
+053,,84299
+053,,84291
+053,,84319
+053,,84329
+053,,84339
+053,,84349
+053,,84359
+053,,84391
+053,,84399
+053,,84419
+053,,84429
+053,,84439
+053,,84519
+053,,84529
+053,,84599
+053,,8464
+053,,8465
+053,,847
+053,,8484
+054,"Wool textiles, crude",268(excl. 268.5/6)
+055,"Wool textiles, semimanufactured",2686
+055,,269
+056,"Wool textiles, manufactured",6512
+056,,6542
+056,,6543
+056,,65521
+056,,65829
+056,,65831
+056,,65921
+056,,6593
+056,,6594
+056,,84211
+056,,84221
+056,,84231
+056,,84241
+056,,84292
+056,,84311
+056,,84321
+056,,84331
+056,,84341
+056,,84392
+056,,84511
+056,,84521
+056,,84591
+056,,8461
+057,"Silk textiles, crude",261
+058,"Silk texiles, semimanufactured",6511
+059,"Silk textiles, manufactured",6541
+059,,6560
+060,"Other animal fibers, crude",2685
+060,,2919 (only 291.91/92)
+061,"Other animal fibers, manufactured",65492
+061,,89994
+061,,89995
+062,"Wood and products, crude",245
+062,,246
+062,,247
+063,"Wood and products, exc. paper, semimanufactured",244
+063,,248
+064,"Wood and products, exc. paper, manufactured",63
+064,,82
+065,"Paper and related products, semimanufactured",25
+066,"Paper and products, manufactured",64
+066,,892
+067,"Coal, crude",322
+068,"Coal, semimanufactured",323
+069,"Petroleum and related products, crude",333
+070,"Petroleum and related products, semimanufactured",335(excl. 335.2)
+071,"Petroleum and related prodcuts, manufactured",334
+072,"Precious stones, crude",66721
+073,"Precious stones, semimanufactured",6671
+073,,66722
+073,,66729
+073,,6673
+073,,6674
+073,,897
+074,"Other nonmetallic minerals, crude",2714
+074,,2732
+074,,2741
+074,,277
+074,,278(excl. 278.3/6)
+075,"Other nonmetallic minerals, semimanufactured",273(excl. 273.2)
+075,,6612
+075,,6613
+076,"Other nonmetallic minterals, manufactured",2783
+076,,6618
+076,,662
+076,,663 (excl. 663.5)
+076,,664
+076,,665
+076,,666
+076,,884
+077,"Nonferrous metals, crude",287
+077,,289
+078,"Nonferrous metals, semimanufactured",288
+078,,68(excl. 688)
+079,"Nonferrous metals, manufactured",6912
+079,,69213
+079,,69242
+079,,69244
+079,,69312
+079,,69313
+079,,69352
+079,,69403
+079,,69734
+079,,69742
+079,,69743
+079,,69752
+079,,69753
+079,,69942
+079,,6998
+079,,6999
+079,,885
+080,"Iron and steel products, crude",281
+081,"Iron and steel products, semimanufactured",282
+081,,67 (excl. 676/677)
+082,"Iron and steel products, manufactured",676
+082,,677
+082,,6911
+082,,69211
+082,,69241
+082,,69243
+082,,69311
+082,,6932
+082,,69351
+082,,69401
+082,,69402
+082,,695
+082,,696
+082,,6973(excl. 697.34)
+082,,69741
+082,,69751
+082,,699(excl. 699.8/9)
+082,,8951
+083,Machinery,71(excl 718.7)
+083,,72
+083,,73
+083,,74
+083,,75
+083,,76(excl. 761)
+083,,77(excl. 776)
+083,,87
+084,Vehicles,78
+084,,79
+085,"Chemicals and allied products, crude",271
+086,"Chemicals, semimanufactured",08194
+086,,4313
+086,,51
+086,,52
+086,,531
+086,,5323
+086,,533
+086,,562
+087,"Chemicals and allied products, manufactured",54
+087,,553
+087,,554
+087,,57
+087,,591
+087,,598
+088,Miscellaneous,881
+088,,882
+088,,883
+088,,894(excl. 894.1)
+088,,8952
+088,,898
+088,,8993
+089,Art works,896
+090,U.S. exports returned,
