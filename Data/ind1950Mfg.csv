@@ -1,0 +1,163 @@
+﻿Code,Label
+0,N/A or none reported
+105,Agriculture
+116,Forestry
+126,Fisheries
+206,Metal mining
+216,Coal mining
+226,Crude petroleum and natural gas extraction
+236,"Nonmetallic mining and quarrying, except fuel"
+239,"Mining, not specified"
+246,Construction
+306,Logging
+307,"Sawmills, planing mills, and mill work"
+308,Miscellaneous wood products
+309,Furniture and fixtures
+316,Glass and glass products
+317,"Cement, concrete, gypsum and plaster products"
+318,Structural clay products
+319,Pottery and related products
+326,Miscellaneous nonmetallic mineral and stone products
+336,"Blast furnaces, steel works, and rolling mills"
+337,Other primary iron and steel industries
+338,Primary nonferrous industries
+346,Fabricated steel products
+347,Fabricated nonferrous metal products
+348,Not specified metal industries
+356,Agricultural machinery and tractors
+357,Office and store machines and devices
+358,Miscellaneous machinery
+367,"Electrical machinery, equipment, and supplies"
+376,Motor vehicles and motor vehicle equipment
+377,Aircraft and parts
+378,Ship and boat building and repairing
+379,Railroad and miscellaneous transportation equipment
+386,Professional equipment and supplies
+387,Photographic equipment and supplies
+388,"Watches, clocks, and clockwork-operated devices"
+399,Miscellaneous manufacturing industries
+406,Meat products
+407,Dairy products
+408,"Canning and preserving fruits, vegetables, and seafoods"
+409,Grain-mill products
+416,Bakery products
+417,Confectionery and related products
+418,Beverage industries
+419,Miscellaneous food preparations and kindred products
+426,Not specified food industries
+429,Tobacco manufactures
+436,Knitting mills
+437,"Dyeing and finishing textiles, except knit goods"
+438,"Carpets, rugs, and other floor coverings"
+439,"Yarn, thread, and fabric mills"
+446,Miscellaneous textile mill products
+448,Apparel and accessories
+449,Miscellaneous fabricated textile products
+456,"Pulp, paper, and paperboard mills"
+457,Paperboard containers and boxes
+458,Miscellaneous paper and pulp products
+459,"Printing, publishing, and allied industries"
+466,Synthetic fibers
+467,Drugs and medicines
+468,"Paints, varnishes, and related products"
+469,Miscellaneous chemicals and allied products
+476,Petroleum refining
+477,Miscellaneous petroleum and coal products
+478,Rubber products
+487,"Leather: tanned, curried, and finished"
+488,"Footwear, except rubber"
+489,"Leather products, except footwear"
+499,Not specified manufacturing industries
+506,Railroads and railway express service
+516,Street railways and bus lines
+526,Trucking service
+527,Warehousing and storage
+536,Taxicab service
+546,Water transportation
+556,Air transportation
+567,Petroleum and gasoline pipe lines
+568,Services incidental to transportation
+578,Telephone
+579,Telegraph
+586,Electric light and power
+587,Gas and steam supply systems
+588,Electric-gas utilities
+596,Water supply
+597,Sanitary services
+598,Other and not specified utilities
+606,Motor vehicles and equipment
+607,"Drugs, chemicals, and allied products"
+608,Dry goods apparel
+609,Food and related products
+616,"Electrical goods, hardware, and plumbing equipment"
+617,"Machinery, equipment, and supplies"
+618,Petroleum products
+619,Farm products--raw materials
+626,Miscellaneous wholesale trade
+627,Not specified wholesale trade
+636,"Food stores, except dairy products"
+637,Dairy products stores and milk retailing
+646,General merchandise stores
+647,Five and ten cent stores
+656,"Apparel and accessories stores, except shoe"
+657,Shoe stores
+658,Furniture and house furnishing stores
+659,Household appliance and radio stores
+667,Motor vehicles and accessories retailing
+668,Gasoline service stations
+669,Drug stores
+679,Eating and drinking places
+686,Hardware and farm implement stores
+687,Lumber and building material retailing
+688,Liquor stores
+689,Retail florists
+696,Jewelry stores
+697,Fuel and ice retailing
+698,Miscellaneous retail stores
+699,Not specified retail trade
+716,Banking and credit agencies
+726,Security and commodity brokerage and investment companies
+736,Insurance
+746,Real estate
+756,Real estate-insurance-law offices
+806,Advertising
+807,"Accounting, auditing, and bookkeeping services"
+808,Miscellaneous business services
+816,Auto repair services and garages
+817,Miscellaneous repair services
+826,Private households
+836,Hotels and lodging places
+846,"Laundering, cleaning, and dyeing services"
+847,Dressmaking shops
+848,Shoe repair shops
+849,Miscellaneous personal services
+856,Radio broadcasting and television
+857,Theaters and motion pictures
+858,"Bowling alleys, and billiard and pool parlors"
+859,Miscellaneous entertainment and recreation services
+868,"Medical and other health services, except hospitals"
+869,Hospitals
+879,Legal services
+888,Educational services
+896,Welfare and religious services
+897,Nonprofit membership organizations
+898,Engineering and architectural services
+899,Miscellaneous professional and related services
+906,Postal service
+916,Federal public administration
+926,State public administration
+936,Local public administration
+946,"Public Administration, level not specified"
+976,Common or general laborer
+979,Not yet specified
+980,Unpaid domestic work
+982,Housework at home
+983,"School response (students, etc.)"
+984,Retired
+986,Sick/disabled
+987,Institution response
+991,Lady/Man of leisure
+995,Non-industrial response
+997,Nonclassifiable
+998,Industry not reported
+999,Blank or blank equivalent
